@@ -1,0 +1,17 @@
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.pdb
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.dll.CodeAnalysisLog.xml
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.dll.lastcodeanalysissucceeded
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\EntityFramework.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Model.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\System.Data.SqlServerCe.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.pdb
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Model.pdb
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\EntityFramework.xml
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\ResolveAssemblyReference.cache
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.Properties.Resources.resources
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\GenerateResource.read.1.tlog
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\GenerateResource.write.1.tlog
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.dll
+D:\Silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.pdb

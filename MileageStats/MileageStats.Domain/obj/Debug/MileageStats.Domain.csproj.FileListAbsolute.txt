@@ -1,0 +1,12 @@
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Domain.dll
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Domain.pdb
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Data.dll
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Model.dll
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Data.pdb
+D:\Silk\MileageStats\MileageStats.Domain\bin\Debug\MileageStats.Model.pdb
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\MileageStats.Domain.Properties.Resources.resources
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\GenerateResource.read.1.tlog
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\GenerateResource.write.1.tlog
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\MileageStats.Domain.dll
+D:\Silk\MileageStats\MileageStats.Domain\obj\Debug\MileageStats.Domain.pdb

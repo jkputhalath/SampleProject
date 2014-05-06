@@ -1,0 +1,13 @@
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.ServicesModel.Tests.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.ServicesModel.Tests.pdb
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Domain.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Model.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\xunit.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Data.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Domain.pdb
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Model.pdb
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\xunit.xml
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\bin\Debug\MileageStats.Data.pdb
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\obj\Debug\MileageStats.ServicesModel.Tests.dll
+D:\Silk\MileageStats\MileageStats.ServicesModel.Tests\obj\Debug\MileageStats.ServicesModel.Tests.pdb

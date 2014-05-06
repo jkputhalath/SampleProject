@@ -1,0 +1,9 @@
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.dll
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.pdb
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.dll.CodeAnalysisLog.xml
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.dll.lastcodeanalysissucceeded
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Model.dll
+D:\Silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Model.pdb
+D:\Silk\MileageStats\MileageStats.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Silk\MileageStats\MileageStats.Data\obj\Debug\MileageStats.Data.dll
+D:\Silk\MileageStats\MileageStats.Data\obj\Debug\MileageStats.Data.pdb
